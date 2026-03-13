@@ -1,6 +1,6 @@
 # [:] Example Gradle Project
 
-An example gradle project to demonstrate [srcclr](https://www.srcclr.com) scans.h
+An example gradle project to demonstrate [srcclr](https://www.srcclr.com)f scans.h
 f
 ## Try me!
 
